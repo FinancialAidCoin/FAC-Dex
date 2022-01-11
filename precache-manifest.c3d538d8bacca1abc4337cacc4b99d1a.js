@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31792fabd8a7c0e9881def0ded2565c6",
+    "revision": "76fdefcf75a44b4b22ed5c23a0c6ae74",
     "url": "/FAC-Dex/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FAC-Dex/static/css/2.3a0ac4c9.chunk.css"
   },
   {
-    "revision": "452ed2af380717f6daca",
-    "url": "/FAC-Dex/static/css/main.99ede3ff.chunk.css"
+    "revision": "558595bcf3ad247f30a0",
+    "url": "/FAC-Dex/static/css/main.8e0b8bcf.chunk.css"
   },
   {
     "revision": "36551810e7343947b4ee",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FAC-Dex/static/js/2.7e54a875.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "452ed2af380717f6daca",
+    "revision": "558595bcf3ad247f30a0",
     "url": "/FAC-Dex/static/js/main.4590ce11.chunk.js"
   },
   {
